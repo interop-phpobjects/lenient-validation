@@ -1,0 +1,16 @@
+{
+    "name": "interop-phpobjects/lenient-validation",
+    "type": "library",
+    "description": "Validation interface interoperability",
+    "keywords": ["validation","interop","interoperability"],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Interop\\Lenient\\Validation\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
