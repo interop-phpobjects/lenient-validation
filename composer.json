@@ -11,6 +11,5 @@
         "psr-4": {
             "Interop\\Lenient\\Validation\\": "src/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
